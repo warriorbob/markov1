@@ -1,0 +1,6 @@
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\bin\Debug\markov1.exe.config
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\bin\Debug\markov1.exe
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\bin\Debug\markov1.pdb
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\obj\Debug\markov1.csprojResolveAssemblyReference.cache
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\obj\Debug\markov1.exe
+C:\Users\dhampton\Desktop\Code\Testbed projects\markov1\markov1\obj\Debug\markov1.pdb
